@@ -39,19 +39,6 @@ article {
     grid-template-columns: repeat(3, 1fr);
 }
 
-.img {
+.img1 {
     width: 217px;
 }
-
-.img-0 {
-    float: right;
-}
-
-.img-1 {
-    float: right;
-}
-
-.img-2 {
-    float: left;
-}
-

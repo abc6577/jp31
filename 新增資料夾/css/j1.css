@@ -1,0 +1,57 @@
+.div {
+    text-align: center;
+    background-color: pink;
+}
+
+.div1 {
+    border: 10px solid hsl(0, 100%, 50%);
+}
+
+.div2 {
+    border: 10px solid hsl(20, 100%, 50%);
+}
+
+.div3 {
+    border: 10px solid hsl(61, 100%, 50%);
+}
+
+.div4 {
+    border: 10px solid hsl(117, 100%, 50%);
+}
+
+.div5 {
+    border: 10px solid hsl(188, 100%, 50%);
+}
+
+.div6 {
+    border: 10px solid hsl(233, 100%, 50%);
+}
+
+.div7 {
+    border: 10px solid hsl(272, 100%, 50%);
+}
+
+article {
+    text-align: center;
+}
+
+.div-blog {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.img {
+    width: 217px;
+}
+
+.img-0 {
+    float: right;
+}
+
+.img-1 {
+    float: right;
+}
+
+.img-2 {
+    float: left;
+}
+

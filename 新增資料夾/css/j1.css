@@ -1,5 +1,5 @@
 .div {
-    text-align: center;
+
     background-color: pink;
 }
 
@@ -35,10 +35,32 @@ article {
     text-align: center;
 }
 
-.div-blog {
-    grid-template-columns: repeat(3, 1fr);
-}
+
 
 .img1 {
-    width: 217px;
+    width: 300px;
+    margin-bottom: -4px ;
+    
+}
+
+.name {
+    font-family: Dfkai-sb;
+    margin-top:110px; 
+    height: 300px;
+    text-align: center;
+    width: 69%;
+    float: right;
+    font-size: 80px;
+}
+
+nav {
+    float: left;
+}
+
+main {
+    text-align: center;
+}
+
+.jikosyokai {
+    font-size: 50px;
 }
